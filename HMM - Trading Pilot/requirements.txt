@@ -1,7 +1,8 @@
-numpy
-pandas
+streamlit
 yfinance
 hmmlearn
+pandas
+numpy
 scikit-learn
-streamlit
+ta
 plotly
